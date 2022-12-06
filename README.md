@@ -1,6 +1,6 @@
 - 👋 Hi, my name's JW
 - 👀 I’m interested in information security and building tools
-- 🌱 I’m currently learning Rust for the fourth time!
+- 🌱 I’m currently learning Rust (for the fourth time), and data science (AI/ML)
 - 📫 How to reach me -> https://localhost.exposed/
 
 <!---
